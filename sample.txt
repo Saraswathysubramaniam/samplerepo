@@ -2,3 +2,4 @@ my sample text
 
 text added
 Content added in remote repository
+First draft of the CR
