@@ -2,5 +2,3 @@ my sample text
 
 text added
 Content added in remote repository
-Changes for CR102
-new content
